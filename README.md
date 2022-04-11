@@ -9,5 +9,3 @@ JoyScore scans the user's face at frequent intervals throughout the duration of 
 ### How we built it
 First, we used the OpenCV python library and implemented a timing mechanism to take pictures of the user at given intervals during a video. Next, we utilized the YouTube Data API to determine the length of the video with the potential to harness more information for the algorithm. Then, we analyzed the Google Cloud VisionAI API's implementation in-code, and harnessed the technology to generate user sentiment reports. Last, we generated a weighted average of the user sentiments across all images collected to determine how a video made them feel, which could be used to create personalized video recommendations for 
 
-### What's next for JoyScore
-JoyScore's potential for scalability is immense; with slight adjustments, JoyScore can be implemented on nearly every platform for live sentiment analysis, aiding corporations in determining optimal recommendation algorithms.
