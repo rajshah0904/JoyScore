@@ -21,3 +21,5 @@ Really, the most important thing we learned was persistence. We ran into lots of
 ### What's next for JoyScore
 JoyScore's potential for scalability is immense; with slight adjustments, JoyScore can be implemented on nearly every platform for live sentiment analysis, aiding corporations in determining optimal recommendation algorithms.
 
+### Presentation
+https://docs.google.com/presentation/d/1Poggs3klNelaZOwd0sZoWmNtK88-MKgKUBtcS13WURU/edit?usp=sharing
